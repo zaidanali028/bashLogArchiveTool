@@ -91,7 +91,23 @@ Contributions are welcome. Please submit pull requests or open issues on the rep
 - Requires sudo priviledges for file operations
 
 
+## Running the Script
 
+### Permissions Setup
+```bash
+chmod +x log_archiver.sh
+```
+
+### Execution Methods
+```bash
+# Direct execution
+./log_archiver.sh
+```
+
+### Troubleshooting
+- Verify script location
+- Check permissions: `ls -l log_archiver.sh`
+- Confirm user privileges
 
 
 
